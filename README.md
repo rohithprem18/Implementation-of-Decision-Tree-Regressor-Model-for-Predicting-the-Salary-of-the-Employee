@@ -53,7 +53,7 @@ dt.predict([[5,6]])
 ## Output:
 #### data.head()
 ![Screenshot 2024-04-06 114035](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/69666c35-6fac-4e88-8d42-0119bdb0ce89)
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 #### data.info()
 ![Screenshot 2024-04-06 114043](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/2de5b878-0b66-42c0-bac7-cb3a9b6fba0d)
@@ -63,6 +63,7 @@ dt.predict([[5,6]])
 
 #### data.head() for salary 
 ![Screenshot 2024-04-06 114051](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/17415255-3f43-4983-8cd6-337e31da5153)
+<br><br><br><br><br><br><br><br><br>
 
 #### MSE value
 ![Screenshot 2024-04-06 114055](https://github.com/rohithprem18/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/146315115/8e9b12d9-c5a6-4608-ab3a-eea15dc71a74)
